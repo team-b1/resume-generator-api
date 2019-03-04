@@ -1,0 +1,10 @@
+{
+  "name": "Resume Generator API",
+  "description": "API for Resume Generator",
+  "image": "heroku/python",
+  "repository": "https://github.com/team-b1/resume-generator-api",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ],
+  "env": { },
+  "environments": { }
+}
